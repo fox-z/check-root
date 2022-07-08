@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/",
+    "registry":  "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
@@ -23,5 +23,6 @@
   "dependencies": {
     "@check-root/downgrade-root": "^0.0.1",
     "@check-root/sudo-block": "^0.0.1"
-  }
+  },
+  "gitHead": "3dbe1107a322843eb2c0c30062793eb26c9b2199"
 }
