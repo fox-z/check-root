@@ -1,5 +1,6 @@
 dist
 node_modules
+packages/**/node_modules
 .cache
 .DS_Store
 lerna-debug.log
