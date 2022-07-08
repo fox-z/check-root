@@ -1,6 +1,6 @@
 {
   "name": "check-root",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@check-root/downgrade-root": "^0.0.0",
-    "@check-root/sudo-block": "^0.0.0"
+    "@check-root/downgrade-root": "^0.0.1",
+    "@check-root/sudo-block": "^0.0.1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@check-root/sudo-block",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@check-root/utils": "^0.0.0",
+    "@check-root/utils": "^0.0.1",
     "chalk": "^5.0.1"
   }
 }
