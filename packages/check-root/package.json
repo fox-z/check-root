@@ -1,6 +1,6 @@
 {
   "name": "@check-root/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@check-root/downgrade-root": "^1.0.1",
-    "@check-root/sudo-block": "^1.0.1"
+    "@check-root/sudo-block": "^1.0.2"
   },
   "gitHead": "73e01dc98622a6fe8cb48bb050ae9402226e90c5"
 }
