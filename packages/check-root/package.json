@@ -1,6 +1,6 @@
 {
   "name": "check-root",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "",
@@ -14,15 +14,15 @@
     "lib"
   ],
   "publishConfig": {
-    "registry":  "https://registry.npmjs.org/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@check-root/downgrade-root": "^0.0.1",
-    "@check-root/sudo-block": "^0.0.1"
+    "@check-root/downgrade-root": "^1.0.0",
+    "@check-root/sudo-block": "^1.0.0"
   },
   "gitHead": "3dbe1107a322843eb2c0c30062793eb26c9b2199"
 }

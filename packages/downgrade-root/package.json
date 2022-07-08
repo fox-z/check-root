@@ -1,6 +1,6 @@
 {
   "name": "@check-root/downgrade-root",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@check-root/utils": "^0.0.1"
+    "@check-root/utils": "^1.0.0"
   },
   "gitHead": "3dbe1107a322843eb2c0c30062793eb26c9b2199"
 }
