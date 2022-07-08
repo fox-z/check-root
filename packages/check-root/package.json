@@ -1,5 +1,5 @@
 {
-  "name": "check-root",
+  "name": "@check-root/core",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "fox-z <939117551@qq.com>",
@@ -24,5 +24,5 @@
     "@check-root/downgrade-root": "^1.0.0",
     "@check-root/sudo-block": "^1.0.0"
   },
-  "gitHead": "3dbe1107a322843eb2c0c30062793eb26c9b2199"
+  "gitHead": "73e01dc98622a6fe8cb48bb050ae9402226e90c5"
 }
