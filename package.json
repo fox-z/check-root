@@ -1,0 +1,14 @@
+{
+  "name": "check-root",
+  "version": "1.0.0",
+  "description": "Try to downgrade the permissions of a process with root privileges and block access if it fails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
